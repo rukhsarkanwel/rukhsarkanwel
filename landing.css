@@ -55,6 +55,6 @@ background-position: center;
 .btn-primary:hover{
 	background-color: #F05F99;
 	border-color: #F05F99;
-	scale: 120%;
+	/* scale: 120%; */
 	
 }
